@@ -2,16 +2,25 @@
 
 <img src="https://github.com/pathakchiranjit1988/EDA_Projects_INSAID_June2020_batch/blob/master/ISL_pics.jpg?raw=true" align='left'><br/>
 
+[========]
+
+
 **Data Source:**
 
 https://data.world/ajaigovindg/hero-indian-super-league
 
 
+
+[========]
+
+
+
 ### EDA with Pandas profiling will be very much helpful as one line code is sufficient and here is a graphical representation of the same. The use of describe(), info() has also been depicted here.
 
-<img src="https://github.com/pathakchiranjit/EDA_Projects_INSAID_June2020_batch/blob/master/EDA_snaps.JPG?raw=true" align='left'><br/>"
+<img src="https://github.com/pathakchiranjit/EDA_Projects_INSAID_June2020_batch/blob/master/EDA_snaps.JPG?raw=true" align='left'><br/>
 
 
+[========]
 ## Table of Contents
 
 1. [Objective: Problem Statement](#section1)<br>
